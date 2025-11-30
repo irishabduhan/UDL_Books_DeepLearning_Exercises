@@ -1,0 +1,2 @@
+# UDL_Books_DeepLearning_Exercises
+UDL_Books_Exercises practice
